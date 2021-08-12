@@ -1,3 +1,3 @@
-test=function(){
+test <- function(){
   cat('Hello World!')
   }
