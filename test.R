@@ -1,1 +1,3 @@
-cat('Hello World!')
+wow=function(){
+  cat('Hello World!')
+}
